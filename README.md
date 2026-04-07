@@ -64,5 +64,7 @@ The **Supply Chain Management Dashboard** provides a consolidated view of suppli
 
 ## 👤 Author
 **Ashik Kumar Ghosh**  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashik-Kumar-Ghosh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashik-kumar-ghosh-58443b374/)
 
 ---
